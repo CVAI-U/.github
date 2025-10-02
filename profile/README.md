@@ -4,6 +4,8 @@ Welcome to the **Computer Vision and AI Unit (CVAI-U)** — a passionate student
 
 📍 Based at the **Research and Data Analytics Laboratory (ReDA)**, under the **Department of Applied Mathematics and Statistics (AMS)**, Faculty of Electrical Engineering, **Institute of Technology of Cambodia (ITC)**.
 
+🌐 **Visit our website:** [CVAI-U Official Website](https://cvai-b0oc89q9u-chantharith-nys-projects.vercel.app/)
+
 ---
 
 ## 🚀 Our Mission
@@ -36,7 +38,7 @@ To empower students through hands-on projects, research opportunities, and real-
 
 ## 📬 Join Us
 
-Interested in collaborating, mentoring, or joining a project? Connect with us or visit our upcoming GitHub repositories!
+Interested in collaborating, mentoring, or joining a project? Connect with us or visit our GitHub repositories!
 
 ---
 
